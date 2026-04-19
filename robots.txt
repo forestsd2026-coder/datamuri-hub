@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://datamuri-hub.pages.dev/sitemap.xml
