@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://datamuri-hub.pages.dev/sitemap.xml
+Sitemap: https://www.datamuri.us.com/sitemap.xml
