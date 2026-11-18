@@ -1,0 +1,5 @@
+.site/
+.wrangler/
+node_modules/
+deployment-manifest.json
+deployment-verification.json
